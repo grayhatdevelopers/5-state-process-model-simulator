@@ -18,11 +18,11 @@ This program comes with an integrated terminal called "mard". Mard is loaded wit
 which can be used to terminate programs running haywire (like the States you'll see soon). You can also use 
 Linux/UNIX system calls by prefixing "system" before them, for example:
 
->>ls -l
+> ls -l
 
 would become
     
->>system ls -l
+> system ls -l
 
 
 ## HOW TO BUILD:
