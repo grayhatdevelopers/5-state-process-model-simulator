@@ -1,0 +1,2 @@
+g++ New.cpp -o New && g++ Ready.cpp -o Ready && g++ Running.cpp -o Running && g++ Blocked.cpp -o Blocked && g++ Exit.cpp -o Exit
+

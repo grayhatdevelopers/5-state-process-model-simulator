@@ -1,0 +1,19 @@
+I am Exit!
+EXIT Release ===> Name: Proc6, Arrival Time: 0, Burst Time: 0, Algorithm: FCFS, Quantum: -1
+EXIT Release ===> Name: Proc1, Arrival Time: 0, Burst Time: 0, Algorithm: FCFS, Quantum: -1
+EXIT Release ===> Name: Proc2, Arrival Time: 0, Burst Time: 0, Algorithm: FCFS, Quantum: -1
+EXIT Release ===> Name: Proc3, Arrival Time: 0, Burst Time: 0, Algorithm: FCFS, Quantum: -1
+EXIT Release ===> Name: Proc4, Arrival Time: 0, Burst Time: 0, Algorithm: FCFS, Quantum: -1
+EXIT Release ===> Name: Proc7, Arrival Time: 0, Burst Time: 0, Algorithm: FCFS, Quantum: -1
+EXIT Release ===> Name: Proc5, Arrival Time: 0, Burst Time: 0, Algorithm: FCFS, Quantum: -1
+I have gotten all the processes...
+EXIT FINALLY: Name: Proc6, Final Arrival Time: 0, Final Burst Time: 0, Algorithm: FCFS, Quantum: -1, Blocked Time: -1, Time to arrive in Ready (most recent): 6, Response Time: 6, Waiting Time: 29, I/O Time: 7, Turnaround Time: 36, Block Type: -1, Number of Times Blocked: 0, Original Arrival Time: 14, Original Burst Time: 6
+EXIT FINALLY: Name: Proc1, Final Arrival Time: 0, Final Burst Time: 0, Algorithm: FCFS, Quantum: -1, Blocked Time: 0, Time to arrive in Ready (most recent): 28, Response Time: 1, Waiting Time: 15, I/O Time: 30, Turnaround Time: 45, Block Type: 1, Number of Times Blocked: 1, Original Arrival Time: 0, Original Burst Time: 5
+EXIT FINALLY: Name: Proc2, Final Arrival Time: 0, Final Burst Time: 0, Algorithm: FCFS, Quantum: -1, Blocked Time: 0, Time to arrive in Ready (most recent): 29, Response Time: 2, Waiting Time: 20, I/O Time: 29, Turnaround Time: 49, Block Type: 2, Number of Times Blocked: 1, Original Arrival Time: 0, Original Burst Time: 8
+EXIT FINALLY: Name: Proc3, Final Arrival Time: 0, Final Burst Time: 0, Algorithm: FCFS, Quantum: -1, Blocked Time: 0, Time to arrive in Ready (most recent): 32, Response Time: 3, Waiting Time: 26, I/O Time: 25, Turnaround Time: 51, Block Type: 0, Number of Times Blocked: 1, Original Arrival Time: 1, Original Burst Time: 6
+EXIT FINALLY: Name: Proc4, Final Arrival Time: 0, Final Burst Time: 0, Algorithm: FCFS, Quantum: -1, Blocked Time: 0, Time to arrive in Ready (most recent): 39, Response Time: 4, Waiting Time: 27, I/O Time: 29, Turnaround Time: 56, Block Type: 0, Number of Times Blocked: 1, Original Arrival Time: 0, Original Burst Time: 9
+EXIT FINALLY: Name: Proc7, Final Arrival Time: 0, Final Burst Time: 0, Algorithm: FCFS, Quantum: -1, Blocked Time: 0, Time to arrive in Ready (most recent): 58, Response Time: 7, Waiting Time: 26, I/O Time: 35, Turnaround Time: 61, Block Type: 1, Number of Times Blocked: 1, Original Arrival Time: 11, Original Burst Time: 11
+EXIT FINALLY: Name: Proc5, Final Arrival Time: 0, Final Burst Time: 0, Algorithm: FCFS, Quantum: -1, Blocked Time: 0, Time to arrive in Ready (most recent): 142, Response Time: 5, Waiting Time: 30, I/O Time: 110, Turnaround Time: 140, Block Type: 0, Number of Times Blocked: 4, Original Arrival Time: 5, Original Burst Time: 18
+Writing report to file... 
+Written report.
+Exiting Exit...

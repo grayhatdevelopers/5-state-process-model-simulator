@@ -1,0 +1,17 @@
+I am New!
+Opening Sample_2_FCFS.txt
+Name: Proc1, Arrival Time: 0, Burst Time: 5, Algorithm: FCFS, Quantum: -1
+Name: Proc2, Arrival Time: 0, Burst Time: 8, Algorithm: FCFS, Quantum: -1
+Name: Proc3, Arrival Time: 1, Burst Time: 6, Algorithm: FCFS, Quantum: -1
+Name: Proc4, Arrival Time: 0, Burst Time: 9, Algorithm: FCFS, Quantum: -1
+Name: Proc5, Arrival Time: 5, Burst Time: 18, Algorithm: FCFS, Quantum: -1
+Name: Proc6, Arrival Time: 14, Burst Time: 6, Algorithm: FCFS, Quantum: -1
+Name: Proc7, Arrival Time: 11, Burst Time: 11, Algorithm: FCFS, Quantum: -1
+NEW Admit <=== Name: Proc1, Arrival Time: 0, Burst Time: 5, Algorithm: FCFS, Quantum: -1
+NEW Admit <=== Name: Proc2, Arrival Time: 0, Burst Time: 8, Algorithm: FCFS, Quantum: -1
+NEW Admit <=== Name: Proc3, Arrival Time: 1, Burst Time: 6, Algorithm: FCFS, Quantum: -1
+NEW Admit <=== Name: Proc4, Arrival Time: 0, Burst Time: 9, Algorithm: FCFS, Quantum: -1
+NEW Admit <=== Name: Proc5, Arrival Time: 5, Burst Time: 18, Algorithm: FCFS, Quantum: -1
+NEW Admit <=== Name: Proc6, Arrival Time: 14, Burst Time: 6, Algorithm: FCFS, Quantum: -1
+NEW Admit <=== Name: Proc7, Arrival Time: 11, Burst Time: 11, Algorithm: FCFS, Quantum: -1
+Exiting New..........

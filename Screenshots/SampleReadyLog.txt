@@ -1,0 +1,36 @@
+I am Ready!
+Pipe number is 3
+Pipe number is 2
+Pipe number is 0
+READY Admit ===> Name: Proc1, Arrival Time: 0, Burst Time: 5, Algorithm: FCFS, Quantum: -1
+READY Dispatch <=== Name: Proc1, Arrival Time: 0, Burst Time: 5, Algorithm: FCFS, Quantum: -1
+READY Admit ===> Name: Proc2, Arrival Time: 0, Burst Time: 8, Algorithm: FCFS, Quantum: -1
+READY Admit ===> Name: Proc3, Arrival Time: 1, Burst Time: 6, Algorithm: FCFS, Quantum: -1
+READY Admit ===> Name: Proc4, Arrival Time: 0, Burst Time: 9, Algorithm: FCFS, Quantum: -1
+READY Dispatch <=== Name: Proc2, Arrival Time: 0, Burst Time: 8, Algorithm: FCFS, Quantum: -1
+READY Admit ===> Name: Proc5, Arrival Time: 5, Burst Time: 18, Algorithm: FCFS, Quantum: -1
+READY Admit ===> Name: Proc6, Arrival Time: 14, Burst Time: 6, Algorithm: FCFS, Quantum: -1
+READY Admit ===> Name: Proc7, Arrival Time: 11, Burst Time: 11, Algorithm: FCFS, Quantum: -1
+READY Dispatch <=== Name: Proc3, Arrival Time: 0, Burst Time: 6, Algorithm: FCFS, Quantum: -1
+READY Dispatch <=== Name: Proc4, Arrival Time: 0, Burst Time: 9, Algorithm: FCFS, Quantum: -1
+READY Dispatch <=== Name: Proc5, Arrival Time: 0, Burst Time: 18, Algorithm: FCFS, Quantum: -1
+READY Dispatch <=== Name: Proc7, Arrival Time: 0, Burst Time: 11, Algorithm: FCFS, Quantum: -1
+READY EventOccurs ===> Name: Proc1, Arrival Time: 0, Burst Time: 3, Algorithm: FCFS, Quantum: -1
+READY EventOccurs ===> Name: Proc2, Arrival Time: 0, Burst Time: 4, Algorithm: FCFS, Quantum: -1
+READY EventOccurs ===> Name: Proc3, Arrival Time: 0, Burst Time: 2, Algorithm: FCFS, Quantum: -1
+READY Dispatch <=== Name: Proc6, Arrival Time: 0, Burst Time: 6, Algorithm: FCFS, Quantum: -1
+READY EventOccurs ===> Name: Proc4, Arrival Time: 0, Burst Time: 5, Algorithm: FCFS, Quantum: -1
+READY Dispatch <=== Name: Proc1, Arrival Time: 0, Burst Time: 3, Algorithm: FCFS, Quantum: -1
+READY Dispatch <=== Name: Proc2, Arrival Time: 0, Burst Time: 4, Algorithm: FCFS, Quantum: -1
+READY EventOccurs ===> Name: Proc5, Arrival Time: 0, Burst Time: 14, Algorithm: FCFS, Quantum: -1
+READY Dispatch <=== Name: Proc3, Arrival Time: 0, Burst Time: 2, Algorithm: FCFS, Quantum: -1
+READY Dispatch <=== Name: Proc4, Arrival Time: 0, Burst Time: 5, Algorithm: FCFS, Quantum: -1
+READY EventOccurs ===> Name: Proc7, Arrival Time: 0, Burst Time: 2, Algorithm: FCFS, Quantum: -1
+READY Dispatch <=== Name: Proc5, Arrival Time: 0, Burst Time: 14, Algorithm: FCFS, Quantum: -1
+READY Dispatch <=== Name: Proc7, Arrival Time: 0, Burst Time: 2, Algorithm: FCFS, Quantum: -1
+READY EventOccurs ===> Name: Proc5, Arrival Time: 0, Burst Time: 10, Algorithm: FCFS, Quantum: -1
+READY Dispatch <=== Name: Proc5, Arrival Time: 0, Burst Time: 10, Algorithm: FCFS, Quantum: -1
+READY EventOccurs ===> Name: Proc5, Arrival Time: 0, Burst Time: 5, Algorithm: FCFS, Quantum: -1
+READY Dispatch <=== Name: Proc5, Arrival Time: 0, Burst Time: 5, Algorithm: FCFS, Quantum: -1
+READY EventOccurs ===> Name: Proc5, Arrival Time: 0, Burst Time: 2, Algorithm: FCFS, Quantum: -1
+READY Dispatch <=== Name: Proc5, Arrival Time: 0, Burst Time: 2, Algorithm: FCFS, Quantum: -1

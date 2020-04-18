@@ -1,0 +1,19 @@
+I am Blocked!
+BLOCKED EventWait ===> Name: Proc1, Arrival Time: 0, Burst Time: 3, Algorithm: FCFS, Quantum: -1
+BLOCKED EventWait ===> Name: Proc2, Arrival Time: 0, Burst Time: 4, Algorithm: FCFS, Quantum: -1
+BLOCKED EventWait ===> Name: Proc3, Arrival Time: 0, Burst Time: 2, Algorithm: FCFS, Quantum: -1
+BLOCKED EventWait ===> Name: Proc4, Arrival Time: 0, Burst Time: 5, Algorithm: FCFS, Quantum: -1
+BLOCKED EventWait ===> Name: Proc5, Arrival Time: 0, Burst Time: 14, Algorithm: FCFS, Quantum: -1
+BLOCKED EventOccurs <=== Name: Proc1, Arrival Time: 0, Burst Time: 3, Algorithm: FCFS, Quantum: -1
+BLOCKED EventOccurs <=== Name: Proc2, Arrival Time: 0, Burst Time: 4, Algorithm: FCFS, Quantum: -1
+BLOCKED EventOccurs <=== Name: Proc3, Arrival Time: 0, Burst Time: 2, Algorithm: FCFS, Quantum: -1
+BLOCKED EventWait ===> Name: Proc7, Arrival Time: 0, Burst Time: 2, Algorithm: FCFS, Quantum: -1
+BLOCKED EventOccurs <=== Name: Proc4, Arrival Time: 0, Burst Time: 5, Algorithm: FCFS, Quantum: -1
+BLOCKED EventOccurs <=== Name: Proc5, Arrival Time: 0, Burst Time: 14, Algorithm: FCFS, Quantum: -1
+BLOCKED EventOccurs <=== Name: Proc7, Arrival Time: 0, Burst Time: 2, Algorithm: FCFS, Quantum: -1
+BLOCKED EventWait ===> Name: Proc5, Arrival Time: 0, Burst Time: 10, Algorithm: FCFS, Quantum: -1
+BLOCKED EventOccurs <=== Name: Proc5, Arrival Time: 0, Burst Time: 10, Algorithm: FCFS, Quantum: -1
+BLOCKED EventWait ===> Name: Proc5, Arrival Time: 0, Burst Time: 5, Algorithm: FCFS, Quantum: -1
+BLOCKED EventOccurs <=== Name: Proc5, Arrival Time: 0, Burst Time: 5, Algorithm: FCFS, Quantum: -1
+BLOCKED EventWait ===> Name: Proc5, Arrival Time: 0, Burst Time: 2, Algorithm: FCFS, Quantum: -1
+BLOCKED EventOccurs <=== Name: Proc5, Arrival Time: 0, Burst Time: 2, Algorithm: FCFS, Quantum: -1

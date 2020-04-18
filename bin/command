@@ -1,0 +1,1 @@
+g++ New.cpp -lrt -o New && g++ Ready.cpp -pthread -lrt -o Ready && g++ Running.cpp -lrt -o Running && g++ Blocked.cpp -pthread -lrt -o Blocked && g++ Exit.cpp -lrt -o Exit && g++ kill.cpp -o kill && g++ system.cpp -o system

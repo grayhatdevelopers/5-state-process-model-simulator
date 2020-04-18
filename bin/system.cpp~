@@ -1,0 +1,10 @@
+#include <signal.h>
+#include <string>
+#include <iostream>
+int main(int argc, char ** argv){
+    std::cout<<"Killer activated\n";
+    for (int i=1; i<argc; i++){
+        kill(std::stoi(argv[i]),15);
+        std::cout<<"Killed process "<<argv[i]<<"\n";
+    }
+}
