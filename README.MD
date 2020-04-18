@@ -1,6 +1,6 @@
 
 
-##Welcome to Saad's Five State Process Model simulator!
+## Welcome to Saad's Five State Process Model simulator!
 In a multitasking computer system, processes may occupy a variety of states. These distinct states 
 may not be recognized as such by the operating system kernel. However, they are a useful abstraction 
 for the understanding of processes. The 5 state process model is a basic visualization which handles such 
@@ -18,21 +18,21 @@ This program comes with an integrated terminal called "mard". Mard is loaded wit
 which can be used to terminate programs running haywire (like the States you'll see soon). You can also use 
 Linux/UNIX system calls by prefixing "system" before them, for example:
 
->>    ls -l
+>>ls -l
 
 would become
     
->>    system ls -l
+>>system ls -l
 
 
-##HOW TO BUILD:
-(assuming you've opened a terminal in this folder)
+## HOW TO BUILD:
+_(assuming you've opened a terminal in this folder)_
 -   cd bin
 -   g++ New.cpp -lrt -o New && g++ Ready.cpp -pthread -lrt -o Ready && g++ Running.cpp -lrt -o Running && g++ Blocked.cpp -pthread -lrt -o Blocked && g++ Exit.cpp -lrt -o Exit && g++ kill.cpp -o kill && g++ system.cpp -o system
 -   cd ../
 -   g++ 5_state_model_simulator.cpp -lrt -pthread -o 5_state_model_simulator
 
-##HOW TO RUN:
+## HOW TO RUN:
 -   To set which file to open in New, go to around line 27, where a string "fileToOpen" holds the 
 name of the file. By default, it opens "Sample_3_SRTF.txt". You will also have to go to "Exit.cpp", where
 a variable "StopAt" holds the number of Procedures at which it should stop and print the Report
